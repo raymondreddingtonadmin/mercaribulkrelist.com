@@ -8,6 +8,7 @@ baseurl: ""
 
 markdown: kramdown
 permalink: /blog/:title/
+future: true
 
 plugins:
   - jekyll-sitemap
