@@ -228,12 +228,13 @@
       font-size: 0.75rem; font-weight: 600; padding: 0.125rem 0.5rem; border-radius: 4px;
     }
 
-    /* Reviews */
-    .reviews-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
-    .review-card { background: var(--color-bg-subtle); border-radius: var(--radius-lg); padding: 1.75rem; }
-    .review-stars { color: #f59e0b; font-size: 0.875rem; margin-bottom: 0.75rem; letter-spacing: 1px; }
-    .review-text { color: var(--color-text); font-size: 0.9375rem; line-height: 1.6; margin-bottom: 1rem; }
-    .review-author { font-weight: 500; font-size: 0.8125rem; color: var(--color-text-tertiary); }
+    /* Testimonials */
+    .testimonials { display: flex; gap: 1.5rem; justify-content: center; max-width: 900px; margin: 0 auto; }
+    .testimonial {
+      flex: 1; padding: 1.75rem; border-left: 2px solid var(--color-primary);
+      background: var(--color-bg); border-radius: 0 var(--radius) var(--radius) 0;
+    }
+    .testimonial p { color: var(--color-text); font-size: 0.9375rem; line-height: 1.6; font-style: italic; margin: 0; }
 
     /* Blog */
     .blog-list { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 0; }
@@ -291,7 +292,7 @@
       .features-grid { grid-template-columns: 1fr; }
       .steps { grid-template-columns: 1fr; gap: 1.5rem; }
       .pricing-grid { grid-template-columns: 1fr; }
-      .reviews-grid { grid-template-columns: 1fr; }
+      .testimonials { flex-direction: column; }
       .blog-item { flex-direction: column; gap: 0.25rem; }
     }
   </style>
