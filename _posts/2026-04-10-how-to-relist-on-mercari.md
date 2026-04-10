@@ -17,7 +17,7 @@ Mercari's search algorithm heavily favors newer listings. When you post a new it
 
 Relisting — creating a fresh copy of your listing and deactivating the old one — resets the clock. Your item appears as a new listing in search, gets the algorithm boost again, and starts collecting views and likes from scratch.
 
-Data from Vendoo, one of the largest crosslisting platforms, shows that sellers who regularly delist and relist their items make approximately 33% more sales than those who don't. That's not a small edge — for a seller doing $1,000/month, that's an extra $330 just from keeping listings fresh.
+Data from major crosslisting platforms shows that sellers who regularly delist and relist their items make approximately 33% more sales than those who don't. That's not a small edge — for a seller doing $1,000/month, that's an extra $330 just from keeping listings fresh.
 
 ## The Manual Relisting Process (And Why It's Painful)
 
