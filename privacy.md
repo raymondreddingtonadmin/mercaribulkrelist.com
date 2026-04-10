@@ -10,15 +10,19 @@ description: Privacy policy for the Mercari Bulk Relist Chrome extension.
     <ul class="nav-links">
       <li><a href="{{ '/' | relative_url }}#features">Features</a></li>
       <li><a href="{{ '/' | relative_url }}#pricing">Pricing</a></li>
+      <li><a href="{{ '/' | relative_url }}#blog">Blog</a></li>
     </ul>
   </div>
 </nav>
 
-<div style="max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem;">
-
-## Privacy Policy
-
-**Last updated:** April 2026
+<article class="post">
+  <div class="container" style="max-width: 680px;">
+    <header class="post-header">
+      <a href="{{ '/' | relative_url }}" class="post-back">&larr; Home</a>
+      <h1 class="post-title">Privacy Policy</h1>
+      <p class="post-date">Last updated: April 2026</p>
+    </header>
+    <div class="post-content" markdown="1">
 
 ### What data we collect
 
@@ -26,7 +30,7 @@ Mercari Bulk Relist runs entirely in your browser. We do not collect, store, or 
 
 ### What the extension accesses
 
-The extension accesses Mercari listing pages in your browser to read listing details (photos, title, description, price, brand, category, condition, shipping) and create new listings. This data never leaves your browser.
+The extension reads Mercari listing pages in your browser to grab listing details (photos, title, description, price, brand, category, condition, shipping) and create new listings. This data never leaves your browser.
 
 ### Third-party services
 
@@ -42,12 +46,21 @@ We may update this privacy policy from time to time. Changes will be posted on t
 
 ### Contact
 
-If you have questions about this privacy policy, contact us through the Chrome Web Store listing.
+If you have questions about this privacy policy, contact us through the [Chrome Web Store listing](https://chromewebstore.google.com/detail/mercari-bulk-relist/ngihegcbgbehkjcemdoopnljmojaooae).
 
 </div>
+  </div>
+</article>
 
 <footer class="footer">
   <div class="container">
+    <ul class="footer-links">
+      <li><a href="{{ '/' | relative_url }}#features">Features</a></li>
+      <li><a href="{{ '/' | relative_url }}#pricing">Pricing</a></li>
+      <li><a href="{{ '/' | relative_url }}#blog">Blog</a></li>
+      <li><a href="{{ '/privacy' | relative_url }}">Privacy Policy</a></li>
+    </ul>
     <p>&copy; {{ 'now' | date: "%Y" }} Mercari Bulk Relist. All rights reserved.</p>
+    <p style="margin-top: 0.5rem; font-size: 0.8125rem; color: var(--color-text-secondary);">Not affiliated with or endorsed by Mercari, Inc.</p>
   </div>
 </footer>
