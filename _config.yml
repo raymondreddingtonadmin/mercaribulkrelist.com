@@ -3,8 +3,8 @@ description: >-
   Bulk relist your Mercari listings in one click. The fastest mercari relisting tool
   for sellers who want to boost sales without wasting hours manually relisting items.
   Mercari bulk relist, mercari seller tools, bulk relist mercari.
-url: "https://raymondreddingtonadmin.github.io"
-baseurl: "/mercaribulkrelist.com"
+url: "https://mercaribulkrelist.com"
+baseurl: ""
 
 markdown: kramdown
 permalink: /blog/:title/
