@@ -12,18 +12,36 @@ layout: default
   </div>
 </nav>
 
-<article style="max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem;">
-  <header style="margin-bottom: 2rem;">
-    <h1 style="font-size: 2rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.5rem;">{{ page.title }}</h1>
-    <time style="color: var(--color-text-secondary); font-size: 0.9375rem;">{{ page.date | date: "%B %d, %Y" }}</time>
-  </header>
-  <div style="font-size: 1.0625rem; line-height: 1.75; color: var(--color-text);">
-    {{ content }}
+<article class="post">
+  <div class="container" style="max-width: 680px;">
+    <header class="post-header">
+      <a href="{{ '/' | relative_url }}#blog" class="post-back">&larr; All posts</a>
+      <h1 class="post-title">{{ page.title }}</h1>
+      <time class="post-date">{{ page.date | date: "%B %d, %Y" }}</time>
+    </header>
+    <div class="post-content">
+      {{ content }}
+    </div>
   </div>
 </article>
 
+<section class="cta-section">
+  <div class="container">
+    <h2>Ready to relist faster?</h2>
+    <p>Free Chrome extension. Works in under a minute.</p>
+    <a href="https://chromewebstore.google.com/detail/mercari-bulk-relist/ngihegcbgbehkjcemdoopnljmojaooae" class="btn btn-primary btn-large">Add to Chrome - Free</a>
+  </div>
+</section>
+
 <footer class="footer">
   <div class="container">
+    <ul class="footer-links">
+      <li><a href="{{ '/' | relative_url }}#features">Features</a></li>
+      <li><a href="{{ '/' | relative_url }}#pricing">Pricing</a></li>
+      <li><a href="{{ '/' | relative_url }}#blog">Blog</a></li>
+      <li><a href="{{ '/privacy' | relative_url }}">Privacy Policy</a></li>
+    </ul>
     <p>&copy; {{ 'now' | date: "%Y" }} Mercari Bulk Relist. All rights reserved.</p>
+    <p style="margin-top: 0.5rem; font-size: 0.8125rem; color: var(--color-text-secondary);">Not affiliated with or endorsed by Mercari, Inc.</p>
   </div>
 </footer>

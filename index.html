@@ -195,15 +195,13 @@ description: "Select multiple Mercari listings, hit relist, done. Free Chrome ex
     <div class="section-header">
       <h2>Mercari Seller Tips</h2>
     </div>
-    <div class="reviews-grid">
-      {% for post in site.posts limit:3 %}
-      <div class="review-card" style="text-align: left;">
-        <time style="color: var(--color-text-secondary); font-size: 0.8125rem;">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h3 style="font-size: 1.125rem; margin: 0.5rem 0; font-weight: 700;">
-          <a href="{{ post.url | relative_url }}" style="color: var(--color-text); text-decoration: none;">{{ post.title }}</a>
-        </h3>
-        <p style="font-size: 0.9375rem; color: var(--color-text-secondary); line-height: 1.5;">{{ post.description | truncate: 120 }}</p>
-        <a href="{{ post.url | relative_url }}" style="color: var(--color-primary); font-weight: 600; font-size: 0.9375rem;">Read more &rarr;</a>
+    <div class="blog-list">
+      {% for post in site.posts limit:5 %}
+      <div class="blog-item">
+        <div class="blog-item-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </div>
+        <div class="blog-item-date">{{ post.date | date: "%b %d, %Y" }}</div>
       </div>
       {% endfor %}
     </div>
