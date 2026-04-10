@@ -13,6 +13,7 @@ description: "Mercari Bulk Relist lets sellers select multiple listings and reli
       <li><a href="#how-it-works">How It Works</a></li>
       <li><a href="#pricing">Pricing</a></li>
       <li><a href="#compare">Compare</a></li>
+      <li><a href="#blog">Blog</a></li>
     </ul>
   </div>
 </nav>
@@ -246,6 +247,28 @@ description: "Mercari Bulk Relist lets sellers select multiple listings and reli
   </div>
 </section>
 
+<!-- Blog -->
+<section id="blog">
+  <div class="container">
+    <div class="section-header">
+      <h2>Mercari Seller Tips</h2>
+      <p>Strategies to help you sell more on Mercari.</p>
+    </div>
+    <div class="reviews-grid">
+      {% for post in site.posts limit:3 %}
+      <div class="review-card" style="text-align: left;">
+        <time style="color: var(--color-text-secondary); font-size: 0.8125rem;">{{ post.date | date: "%B %d, %Y" }}</time>
+        <h3 style="font-size: 1.125rem; margin: 0.5rem 0; font-weight: 700;">
+          <a href="{{ post.url | relative_url }}" style="color: var(--color-text); text-decoration: none;">{{ post.title }}</a>
+        </h3>
+        <p style="font-size: 0.9375rem; color: var(--color-text-secondary); line-height: 1.5;">{{ post.description | truncate: 120 }}</p>
+        <a href="{{ post.url | relative_url }}" style="color: var(--color-primary); font-weight: 600; font-size: 0.9375rem;">Read more &rarr;</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 <!-- CTA -->
 <section class="cta-section">
   <div class="container">
@@ -262,6 +285,7 @@ description: "Mercari Bulk Relist lets sellers select multiple listings and reli
       <li><a href="#features">Features</a></li>
       <li><a href="#pricing">Pricing</a></li>
       <li><a href="#compare">Compare</a></li>
+      <li><a href="#blog">Blog</a></li>
       <li><a href="{{ '/privacy' | relative_url }}">Privacy Policy</a></li>
     </ul>
     <p>&copy; {{ 'now' | date: "%Y" }} Mercari Bulk Relist. All rights reserved.</p>
