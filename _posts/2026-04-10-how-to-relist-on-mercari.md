@@ -1,73 +1,73 @@
 ---
-title: "How to Relist on Mercari: The Complete 2026 Guide"
-description: "Learn why relisting on Mercari boosts your sales by up to 33%, the best relisting strategy, and how to bulk relist in minutes instead of hours."
+title: "How to Relist on Mercari (and Why It Works)"
+description: "Relisting gets your Mercari items back to the top of search. Here's the full process, how often to do it, and how to stop wasting hours on it."
 date: 2026-04-10
 keywords: ["mercari relist", "how to relist on mercari", "mercari relisting", "relist mercari listings", "mercari algorithm"]
 ---
 
-# How to Relist on Mercari: The Complete 2026 Guide
+# How to Relist on Mercari (and Why It Works)
 
-If you've been selling on Mercari for more than a few weeks, you've probably noticed something frustrating: your older listings stop getting views. Items that were getting 10-15 likes per day when first posted are now sitting at zero. You haven't changed anything — the algorithm just stopped showing them.
+Your older Mercari listings aren't getting views anymore. You didn't change anything. The algorithm just stopped showing them.
 
-This isn't a bug. It's how Mercari works. And relisting is how experienced sellers fight back.
+That's not a bug. Mercari pushes newer listings to the top. Older ones get buried. Relisting is how you fix it.
 
-## Why Relisting Works on Mercari
+## Why relisting works
 
-Mercari's search algorithm heavily favors newer listings. When you post a new item, it gets a visibility boost in search results and in the feeds of potential buyers. Over time, that boost decays and your listing gets buried under newer ones.
+Mercari's search algorithm gives newer listings more visibility. Post something new and it gets a bump in search results and buyer feeds for the first day or two. After that, it slowly drops.
 
-Relisting — creating a fresh copy of your listing and deactivating the old one — resets the clock. Your item appears as a new listing in search, gets the algorithm boost again, and starts collecting views and likes from scratch.
+Relisting means you create a fresh copy of your listing and deactivate the old one. Mercari treats the copy as brand new. You get the visibility bump all over again.
 
-Data from major crosslisting platforms shows that sellers who regularly delist and relist their items make approximately 33% more sales than those who don't. That's not a small edge — for a seller doing $1,000/month, that's an extra $330 just from keeping listings fresh.
+Data from major crosslisting platforms shows sellers who regularly relist make about 33% more sales. For someone doing $1,000/month, that's an extra $330 just from keeping listings fresh.
 
-## The Manual Relisting Process (And Why It's Painful)
+## The manual way (and why it sucks)
 
-Here's what manual relisting looks like on Mercari:
+Here's what it actually takes to relist one item by hand:
 
-1. Open your existing listing
-2. Screenshot or write down all the details: title, description, price, shipping, condition, brand, category, color, size
-3. Download all your photos
+1. Open the listing
+2. Write down or screenshot all the details
+3. Download your photos
 4. Create a new listing from scratch
-5. Re-upload every photo (in the right order)
-6. Re-enter every field
-7. Submit the new listing
-8. Go back and deactivate the old one
+5. Re-upload every photo in order
+6. Re-enter every single field
+7. Post the new listing
+8. Go deactivate the old one
 
-For one item, this takes 10-15 minutes. If you have 50 stale listings? That's 8+ hours of mind-numbing copy-paste work. Most sellers either give up and let their listings rot, or only relist their most expensive items.
+One item takes 10-15 minutes. Got 50 stale listings? That's 8+ hours of copy-paste. Most sellers just don't bother, and their stuff sits there collecting dust.
 
-## How Often Should You Relist on Mercari?
+## How often should you relist?
 
-The optimal relisting frequency depends on your inventory size and how competitive your category is. General guidelines:
+Depends on your category:
 
-- **High-competition categories** (electronics, popular clothing brands): Every 5-7 days
-- **Medium-competition categories** (home goods, accessories): Every 10-14 days
-- **Low-competition categories** (niche items, collectibles): Every 21-30 days
+- **Electronics, popular clothing brands:** Every 5-7 days
+- **Home goods, accessories:** Every 10-14 days
+- **Niche items, collectibles:** Every 21-30 days
 
-The rule of thumb: if a listing hasn't received a like or view in 3+ days, it's time to relist.
+Quick rule: if a listing hasn't gotten a like or view in 3+ days, relist it.
 
-Some sellers relist everything on a weekly schedule — every Sunday evening or Monday morning, before the workweek browsing spike. This is effective but extremely time-consuming without automation.
+A lot of sellers pick one day a week (Sunday night, Monday morning) and relist everything that's gone stale. Works great if you have the time.
 
-## The Smarter Way: Bulk Relisting
+## The faster way
 
-Instead of manually relisting items one at a time, tools like Mercari Bulk Relist let you select multiple listings at once and relist them all with a single click. The extension copies every field — photos, title, description, price, brand, category, condition, shipping method, and smart pricing settings — then creates fresh listings and deactivates the originals automatically.
+Tools like Mercari Bulk Relist let you select a bunch of listings at once and relist them all with one click. It copies every field (photos, title, description, price, brand, category, condition, shipping, smart pricing) and deactivates the originals.
 
-What used to take 8 hours for 50 listings now takes about 12 minutes.
+50 listings that used to take 8 hours? About 12 minutes now.
 
-The free tier gives you 3 relists per day, which is enough to keep a small closet fresh. Sellers with larger inventories can upgrade to Pro ($4.99/month) for unlimited bulk relisting.
+The free tier gives you 3 relists per day. Pro is $4.99/month for unlimited.
 
-## Tips for Getting the Most Out of Relisting
+## Tips to get more out of relisting
 
-**Tweak your titles when you relist.** Don't just create an identical copy. Adjust the title slightly — add a keyword, reorder the words, or mention a detail you left out. This can help your listing appear for different search queries.
+**Change up your titles.** Don't copy them word for word. Add a keyword, reorder things, mention a detail you left out. This helps you show up for different searches.
 
-**Update your photos.** If you have better photos now (better lighting, cleaner background), use them. The listing is being recreated anyway — take the opportunity to improve it.
+**Swap in better photos.** If you've got better lighting or a cleaner background now, use it. You're recreating the listing anyway.
 
-**Relist during peak hours.** Mercari traffic peaks on weekday evenings (6-9 PM local time) and Sunday afternoons. Relisting during these windows means your fresh listing gets maximum initial exposure.
+**Relist during peak hours.** Weekday evenings (6-9 PM) and Sunday afternoons get the most traffic. A fresh listing during peak hours means more eyes on it right away.
 
-**Don't relist items that are getting consistent views.** If a listing is still getting likes and views, leave it alone. The algorithm is already favoring it. Only relist items that have gone stale.
+**Leave active listings alone.** If something is still getting views and likes, don't touch it. The algorithm is already pushing it. Only relist the stuff that's gone quiet.
 
-**Track what works.** Note which items sell faster after relisting. Over time, you'll develop an intuition for which categories and price points benefit most from fresh listings.
+**Pay attention to what works.** Some categories respond better to relisting than others. You'll figure out the pattern after a few rounds.
 
-## The Bottom Line
+## Bottom line
 
-Relisting is the single most effective free strategy for increasing your Mercari sales. The algorithm rewards fresh listings, and sellers who keep their inventory fresh consistently outsell those who don't.
+Relisting is the easiest free way to get more sales on Mercari. Fresh listings get shown more. Stale listings get buried. It's that simple.
 
-The only question is whether you do it manually (and lose hours every week) or automate it. Either way, if you're not relisting, you're leaving money on the table.
+The only question is whether you want to spend hours doing it by hand or let a tool handle it. Either way, if your listings have been sitting for a week, they need a refresh.

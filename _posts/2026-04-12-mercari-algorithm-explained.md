@@ -1,87 +1,78 @@
 ---
-title: "How the Mercari Algorithm Works in 2026: What Actually Gets Your Items Seen"
-description: "A data-driven breakdown of how Mercari ranks listings in search results, what factors matter most, and how top sellers use the algorithm to their advantage."
+title: "How the Mercari Algorithm Actually Works (2026)"
+description: "What gets your items seen on Mercari, what doesn't matter, and what the freshness decay curve looks like. No speculation, just patterns."
 date: 2026-04-12
 keywords: ["mercari algorithm", "mercari search ranking", "mercari visibility", "how to sell on mercari", "mercari tips"]
 ---
 
-# How the Mercari Algorithm Works in 2026: What Actually Gets Your Items Seen
+# How the Mercari Algorithm Actually Works (2026)
 
-There's a lot of speculation about how Mercari's search algorithm works. Some sellers swear by posting at specific times. Others think sharing to social media gives you a boost. Most of it is guesswork.
+Lots of sellers have theories about the Mercari algorithm. Post at 7 PM. Share to Facebook. Edit your listing to "refresh" it. Most of this is wrong.
 
-Here's what we actually know based on observable patterns, seller data, and Mercari's own documentation — and what you can do about it.
+Here's what actually affects where your listing shows up in search, based on real patterns across thousands of listings.
 
-## The Core Ranking Factors
+## What matters
 
-Mercari's search algorithm isn't a single system. It's a combination of factors that determine where your listing appears when someone searches for something. Based on consistent patterns across thousands of listings, here's what matters most:
+### 1. How new your listing is (this is the big one)
 
-### 1. Listing Freshness (Highest Impact)
+New listings get way more visibility in the first 24-48 hours. After that, views start dropping off fast. By day 7-14, you're basically invisible unless someone searches for exactly what you have.
 
-This is the single most important factor. Newly created listings get a significant visibility boost in the first 24-48 hours. After that, they gradually decay in search placement.
+This is why relisting works. Make a fresh copy of a stale listing and Mercari treats it like it was just posted. The visibility bump resets.
 
-This is why relisting works so well. When you create a fresh copy of a stale listing, Mercari treats it as brand new. You get the visibility boost again without changing anything about the item itself.
+Top sellers relist their unsold stuff every 7-14 days to stay in that "new listing" window.
 
-How sellers use this: Top sellers relist their unsold items every 7-14 days to keep them cycling through the "new listing" boost window.
+### 2. Price
 
-### 2. Price Competitiveness
+Mercari wants buyers to find deals. If you price way above what similar items sold for, you'll rank lower. This doesn't mean underprice everything. Just be reasonable compared to recent sold comps.
 
-Mercari wants buyers to find good deals. Listings priced competitively for their category tend to rank higher than overpriced ones. This doesn't mean you should underprice everything — it means your price should be reasonable compared to similar sold items.
+If similar items went for $25-35 and you list at $40, expect fewer views. Price at $28 and the algorithm works with you, not against you.
 
-How sellers use this: Research sold comps before pricing. If similar items sold for $25-35, pricing at $40 is going to hurt your visibility. Pricing at $28 puts you in the algorithm's sweet spot.
+### 3. Photos
 
-### 3. Photo Quality
+Clear, well-lit photos on a clean background get more clicks and likes. More engagement tells the algorithm your listing is worth showing. Dark, blurry, or cluttered photos tank your click-through rate.
 
-Listings with clear, well-lit photos on clean backgrounds get more engagement (clicks, likes, messages). Higher engagement signals to the algorithm that your listing is relevant and appealing, which improves its ranking.
+Natural light, white or neutral background, multiple angles. That's it.
 
-How sellers use this: Use natural light, photograph against a white or neutral background, show the item from multiple angles. Avoid dark, cluttered, or blurry photos.
+### 4. Keywords in your title
 
-### 4. Title and Description Keywords
+Mercari search is keyword-based. If someone searches "vintage Levi's 501 jeans 32x30" and your title says "cool old jeans," you won't show up.
 
-Mercari's search is keyword-based. If someone searches "vintage Levi's 501 jeans 32x30" and your title says "cool old jeans," you're not going to appear in their results.
+Put the important stuff first: brand name, item type, size, color, condition. Front-load your title because it gets cut off in search results.
 
-How sellers use this: Include specific keywords a buyer would actually search for. Brand name, item type, size, color, condition, material. Front-load the most important keywords in your title since it may get truncated in search results.
+### 5. Your seller stats
 
-### 5. Seller Metrics
+Response time, shipping speed, cancellation rate, overall rating. Sellers who ship fast and respond quickly get a small boost. Nothing dramatic, but it adds up.
 
-Mercari considers your seller reputation: response time, shipping speed, cancellation rate, and overall rating. Sellers with faster shipping and higher ratings tend to get slightly better placement.
+## What doesn't matter
 
-How sellers use this: Ship within 24 hours when possible. Respond to messages quickly. Avoid cancellations.
+**Sharing to social media.** There's zero evidence that sharing a Mercari listing to Twitter or Facebook gives you any boost inside Mercari's search.
 
-## What Doesn't Matter (Despite What You've Heard)
+**Editing your listing.** Changing the price or tweaking the description does not reset the freshness signal. You need to create a completely new listing to get the new listing boost.
 
-**Sharing to social media.** There's no evidence that sharing your Mercari listing to Twitter or Facebook gives you an algorithm boost within Mercari's search.
+**Time of day.** More buyers browse in the evening, sure. But the algorithm doesn't rank a 7 PM listing higher than a 7 AM listing. Posting during peak hours just means more people see it right away. The ranking factor is age, not time of day.
 
-**Editing an existing listing.** Some sellers think editing the price or description "refreshes" the listing. It doesn't. Minor edits don't reset the freshness signal. You need to create an entirely new listing to get the new listing boost.
+## The freshness decay curve
 
-**Time of day you post.** While it's true that more buyers are browsing during evening hours, the algorithm doesn't inherently favor listings created at 7 PM over 7 AM. Posting during peak hours means more people see your listing immediately, but the ranking factor itself is age-based, not time-based.
+Here's roughly what happens to your views after posting:
 
-## The Freshness Decay Curve
+- **Day 1-2:** Peak visibility. Highest views per hour.
+- **Day 3-5:** Views drop about 40-50%.
+- **Day 6-14:** Another 50-60% drop from there.
+- **Day 15+:** Basically dead unless someone searches your exact keywords.
 
-Based on tracking view counts across hundreds of listings, here's the approximate visibility pattern:
+Every time you relist, you jump back to Day 1. That's the whole game.
 
-- **Day 1-2**: Peak visibility. Highest views and likes per hour.
-- **Day 3-5**: Moderate visibility. Views decline by roughly 40-50%.
-- **Day 6-14**: Low visibility. Views drop another 50-60%.
-- **Day 15+**: Minimal visibility. Your listing is effectively buried unless someone searches for very specific keywords that match it exactly.
+## What to actually do
 
-This decay is why relisting is so powerful. Every time you relist, you jump back to Day 1 visibility.
+1. **Relist stale items every 7-14 days.** This is the single highest-impact move.
+2. **Write titles like search queries.** What would a buyer type to find your item?
+3. **Price competitively from the start.** An overpriced listing that gets no engagement trains the algorithm to stop showing it.
+4. **Take good photos.** Your first photo is your thumbnail in search. Make it count.
+5. **Ship fast, respond fast.** Keep your seller metrics clean.
+6. **Don't bother relisting cheap items.** Focus on stuff priced $15+. The time spent relisting a $5 item isn't worth it.
 
-## Practical Algorithm Strategy for Mercari Sellers
+## Bottom line
 
-1. **New listings get priority.** Relist stale items every 7-14 days to keep the algorithm working for you instead of against you.
+The algorithm isn't complicated. It pushes fresh listings, rewards good pricing, and buries old stuff. Sellers who relist consistently sell more. That's the pattern.
 
-2. **Optimize your keywords.** Treat your title like a search query. What would a buyer type to find your item?
-
-3. **Price competitively from the start.** An overpriced listing that gets no engagement trains the algorithm to stop showing it. Price right, then adjust down if needed.
-
-4. **Invest in photo quality.** The first photo is your thumbnail in search results. Make it count.
-
-5. **Maintain your seller metrics.** Ship fast, respond fast, avoid cancellations.
-
-6. **Focus relisting effort on items priced $15+.** The time spent relisting a $5 item isn't worth it. Prioritize your higher-value inventory.
-
-## The Bottom Line
-
-The Mercari algorithm isn't mysterious. It heavily rewards freshness, competitive pricing, and good seller behavior. The sellers who understand this and build a consistent relisting routine sell more — it's as simple as that.
-
-If you're manually relisting, dedicate one session per week to refreshing your stale listings. If you want to automate it, tools like Mercari Bulk Relist can handle the entire process in a few minutes. Either way, don't let your listings go stale. The algorithm is always favoring someone's listings — make sure it's yours.
+If you want to automate it, Mercari Bulk Relist handles the whole process in a few minutes. But even if you do it by hand, the important thing is doing it at all. Don't let your listings go stale. Someone else's listings are getting shown instead of yours.
