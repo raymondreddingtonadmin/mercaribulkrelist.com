@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<nav class="nav">
+  <div class="container">
+    <a href="{{ '/' | relative_url }}" class="nav-brand">Mercari Bulk Relist</a>
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}#features">Features</a></li>
+      <li><a href="{{ '/' | relative_url }}#pricing">Pricing</a></li>
+      <li><a href="{{ '/' | relative_url }}#blog">Blog</a></li>
+    </ul>
+  </div>
+</nav>
+
+<article style="max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem;">
+  <header style="margin-bottom: 2rem;">
+    <h1 style="font-size: 2rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.5rem;">{{ page.title }}</h1>
+    <time style="color: var(--color-text-secondary); font-size: 0.9375rem;">{{ page.date | date: "%B %d, %Y" }}</time>
+  </header>
+  <div style="font-size: 1.0625rem; line-height: 1.75; color: var(--color-text);">
+    {{ content }}
+  </div>
+</article>
+
+<footer class="footer">
+  <div class="container">
+    <p>&copy; {{ 'now' | date: "%Y" }} Mercari Bulk Relist. All rights reserved.</p>
+  </div>
+</footer>
